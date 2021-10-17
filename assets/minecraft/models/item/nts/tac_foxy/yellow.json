@@ -3,15 +3,14 @@
 	"ambientocclusion": false,
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/nts/tacfoxy/1",
-		"1": "item/nts/tacfoxy/2",
-		"2": "item/nts/tacfoxy/3",
-		"3": "item/nts/tacfoxy/4",
-		"4": "item/nts/tacfoxy/5",
-		"5": "item/nts/tacfoxy/6",
-		"8": "item/nts/tacfoxy/white",
-		"9": "item/nts/tacfoxy/yellow",
-		"particle": "item/nts/tacfoxy/1"
+		"0": "item/nts/tac_foxy/1",
+		"1": "item/nts/tac_foxy/2",
+		"2": "item/nts/tac_foxy/3",
+		"3": "item/nts/tac_foxy/4",
+		"4": "item/nts/tac_foxy/5",
+		"5": "item/nts/tac_foxy/6",
+		"9": "item/nts/tac_foxy/yellow",
+		"particle": "item/nts/tac_foxy/1"
 	},
 	"elements": [
 		{
@@ -318,7 +317,7 @@
 			"from": [0.425, 3.525, 13.8],
 			"to": [0.475, 4.1, 14.775],
 			"faces": {
-				"north": {"uv": [0, 0, 0.1375, 0.5125], "texture": "#8"},
+				"north": {"uv": [0, 0, 0.1375, 0.5125], "texture": "#9"},
 				"east": {"uv": [0, 0, 0.1375, 0.5125], "texture": "#9"},
 				"south": {"uv": [0, 0, 0.1375, 0.5125], "texture": "#9"},
 				"west": {"uv": [0, 0, 0.1375, 0.5125], "texture": "#9"},

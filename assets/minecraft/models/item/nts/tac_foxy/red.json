@@ -3,14 +3,14 @@
 	"ambientocclusion": false,
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/nts/tacfoxy/1",
-		"1": "item/nts/tacfoxy/2",
-		"2": "item/nts/tacfoxy/3",
-		"3": "item/nts/tacfoxy/4",
-		"4": "item/nts/tacfoxy/5",
-		"5": "item/nts/tacfoxy/6",
-		"6": "item/nts/tacfoxy/red",
-		"particle": "item/nts/tacfoxy/1"
+		"0": "item/nts/tac_foxy/1",
+		"1": "item/nts/tac_foxy/2",
+		"2": "item/nts/tac_foxy/3",
+		"3": "item/nts/tac_foxy/4",
+		"4": "item/nts/tac_foxy/5",
+		"5": "item/nts/tac_foxy/6",
+		"6": "item/nts/tac_foxy/red",
+		"particle": "item/nts/tac_foxy/1"
 	},
 	"elements": [
 		{
